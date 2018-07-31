@@ -5223,6 +5223,9 @@
   -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u969 {
   position:absolute;
@@ -5230,6 +5233,9 @@
   top:0px;
   width:282px;
   height:245px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u970 {
   position:absolute;
@@ -5589,6 +5595,9 @@
   top:15px;
   width:1px;
   height:200px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u986 {
   position:absolute;
@@ -5603,7 +5612,7 @@
   left:0px;
   top:0px;
   width:85px;
-  height:16px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -5611,13 +5620,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u987 {
   position:absolute;
   left:165px;
-  top:51px;
+  top:49px;
   width:85px;
-  height:16px;
+  height:20px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u988 {
   position:absolute;
@@ -5631,7 +5646,7 @@
   left:0px;
   top:0px;
   width:85px;
-  height:16px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -5639,13 +5654,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u989 {
   position:absolute;
   left:165px;
-  top:77px;
+  top:84px;
   width:85px;
-  height:16px;
+  height:20px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
 }
 #u990 {
   position:absolute;
@@ -6056,7 +6077,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:340px;
+  width:115px;
   height:250px;
   overflow:hidden;
 }
@@ -6064,7 +6085,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:340px;
+  width:115px;
   height:250px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
