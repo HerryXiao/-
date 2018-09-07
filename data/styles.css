@@ -60,6 +60,11 @@
 }
 ._图片 {
 }
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-size:17px;
+  text-align:left;
+}
 .line {
 }
 ._文本段落 {
@@ -135,6 +140,9 @@
 .image1 {
   color:#000000;
 }
+.checkbox1 {
+  text-align:left;
+}
 .ellipse {
 }
 .iconfont {
@@ -143,6 +151,9 @@
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+._文本段落1 {
+  text-align:left;
 }
 .heading_11 {
   font-family:'Arial Negreta', 'Arial';
