@@ -7,6 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+.shape {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.647058823529412);
+  text-align:left;
+  line-height:22px;
+}
 .image {
 }
 .heading_1 {
@@ -135,7 +144,16 @@
 .tree_node {
   text-align:left;
 }
-.shape {
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#656565;
+  text-align:center;
+  line-height:normal;
+}
+.shape1 {
 }
 .image1 {
   color:#000000;
@@ -199,15 +217,15 @@
   color:#FFFFFF;
 }
 .connector1 {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
-  color:#656565;
+  color:#333333;
   text-align:center;
   line-height:normal;
 }
-.shape1 {
+.shape2 {
 }
 ._形状 {
 }
