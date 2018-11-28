@@ -249,7 +249,7 @@
 ._分割线 {
 }
 ._次按钮（动作列表） {
-  font-family:'Heiti SC Regular', 'Heiti SC';
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -257,7 +257,7 @@
   text-align:center;
 }
 ._退出按钮（动作列表） {
-  font-family:'Heiti SC Regular', 'Heiti SC';
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -297,5 +297,16 @@
   text-align:left;
 }
 ._文本段落2 {
+  text-align:left;
+}
+._表格 {
+}
+._形状1 {
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-size:9px;
+}
+.text_area1 {
+  color:#000000;
   text-align:left;
 }
